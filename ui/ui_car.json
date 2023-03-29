@@ -1,17 +1,17 @@
 {
-  "name": "ACM Tutorial - Basic",
-  "brand": "ACM",
-  "description": "Toy Car for a Basic Tutorial on assettocorsamods.net<br>- by luchian",
+  "name": "Hayosiko",
+  "brand": "My Summer car",
+  "description": "Imported car from My Summer car by - Emersom32K and JotaFreitas",
   "tags": [
-    "NOOO-turbo"
+    "My Summer car"
   ],
   "class": "race",
 	"specs":
 	{
-		"bhp": "198 bhp",
+		"bhp": "65 bhp",
 		"torque": "230Nm",
-		"weight": "575kg",
-		"topspeed": "230+km/h",
+		"weight": "1580kg",
+		"topspeed": "170+km/h",
 		"acceleration": "--s",
 		"pwratio": "2.30kg/cv"
 	},
